@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Luku Gerauds's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeraudLuku&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeraudLuku&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Laem20957's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laem20957&theme=radical&hide_border=false&include_all_commits=true&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laem20957&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=GeraudLuku&icon=2&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Laem20957&icon=2&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
