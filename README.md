@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Laem20957's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laem20957&theme=radical&hide_border=false&include_all_commits=True&count_private=false)
+![Laem20957's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laem20957&theme=radical&hide_border=false&include_all_commits=True&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laem20957&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Laem20957&icon=2&color=7)](https://visitcount.itsvg.in)
