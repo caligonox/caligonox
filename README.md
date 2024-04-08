@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ![Laem20957's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laem20957&theme=radical&hide_border=false&include_all_commits=True&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laem20957&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
