@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Laem20957/Laem20957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**caligonox/caligonox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-![Laem20957's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laem20957&theme=radical&hide_border=false&include_all_commits=True&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laem20957&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Laem20957's GitHub stats](https://github-readme-stats.vercel.app/api?username=caligonox&theme=radical&hide_border=false&include_all_commits=True&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caligonox&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=Laem20957&icon=2&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=caligonox&icon=2&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
