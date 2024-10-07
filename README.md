@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-![Laem20957's GitHub stats](https://github-readme-stats.vercel.app/api?username=caligonox&theme=radical&hide_border=false&include_all_commits=True&count_private=true)
+![caligonox's GitHub stats](https://github-readme-stats.vercel.app/api?username=caligonox&theme=radical&hide_border=false&include_all_commits=True&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caligonox&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=caligonox&icon=2&color=7)](https://visitcount.itsvg.in)
