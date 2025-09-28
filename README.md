@@ -1,5 +1,5 @@
 # Hi there 👋
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -77,7 +77,7 @@
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=caligonox&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=caligonox&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=caligonox&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=caligonox&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
